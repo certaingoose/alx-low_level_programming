@@ -6,12 +6,12 @@ Write a function that adds two integers and returns the result.
 
 #include "./mainh/main.h"
 
-int add(int, int)
+int add(int,int)
 {
     int a = 5;
     int b = 6;
-    
+
     int sum = a + b;
 
     return (sum);
-}
+};
