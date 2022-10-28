@@ -16,11 +16,12 @@ void print_most_numbers(void)
         {
             /* code */
             continue;
-            _putchar(printnumber + 48); //Undeclared Identifier error
+            putchar(printnumber + 48);
         }
-        else
-        {
-            _putchar('\n');
+            else
+            {
+
+                putchar('\n');
+            }
         }
     }
-}
