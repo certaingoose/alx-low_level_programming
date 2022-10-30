@@ -5,7 +5,15 @@ Write a function that prints the numbers, from 0 to 9, followed by a new line.
     You can only use _putchar twice in your code
 */
 
-#include "main.h"
+//#include "main.h"
+
+#include <stdio.h>
+
+int main(void)
+{
+    print_numbers();
+    return (0);
+}
 
 void print_numbers(void)
 {

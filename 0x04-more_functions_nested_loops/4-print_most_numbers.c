@@ -16,12 +16,12 @@ void print_most_numbers(void)
         {
             /* code */
             continue;
-            putchar(printnumber + 48);
+            _putchar(printnumber + 48);
         }
             else
             {
 
-                putchar('\n');
+                _putchar('\n');
             }
         }
     }
