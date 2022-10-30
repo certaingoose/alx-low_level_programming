@@ -5,7 +5,7 @@ Write a function that prints the 9 times table, starting with 0.
     Format: see example
 */
 
-#include "./mainh/main.h"
+#include "main.h"
 
 void times_table(void)
 {

@@ -5,7 +5,7 @@ Write a function that prints every minute of the day of Jack Bauer, starting fro
     You can listen to this soundtrack while coding :)
 */
 
-#include "./mainh/main.h"
+#include "main.h"
 
 void jack_bauer(void)
 {

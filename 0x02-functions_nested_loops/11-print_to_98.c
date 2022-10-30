@@ -9,7 +9,7 @@ Write a function that prints all natural numbers from n to 98, followed by a new
     You are allowed to use the standard library
 */
 
-#include "./mainh/main.h"
+#include "main.h"
 
 void print_to_98(int n)
 {

@@ -6,7 +6,7 @@ Write a function that checks for alphabetic character.
     Returns 0 otherwise
 */
 
-#include "./mainh/main.h"
+#include "main.h"
 
 int _isalpha(int c)
 {

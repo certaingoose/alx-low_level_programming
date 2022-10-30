@@ -2,7 +2,7 @@
 Write a function that computes the absolute value of an integer.
     Prototype: int _abs(int);
 */
-#include "./mainh/main.h"
+#include "main.h"
 
 int _abs(int val)
 {

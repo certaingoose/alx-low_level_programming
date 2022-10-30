@@ -4,7 +4,7 @@ Write a function that prints the last digit of a number.
     Returns the value of the last digit
 */
 
-#include "./mainh/main.h"
+#include "main.h"
 
 int print_last_digit(int val)
 {

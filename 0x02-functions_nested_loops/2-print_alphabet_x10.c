@@ -5,7 +5,7 @@ Write a function that prints 10 times the alphabet, in lowercase, followed by a 
     You can only use _putchar twice in your code
 */
 
-#include "./mainh/main.h"
+#include "main.h"
 
 void print_alphabet_x10(void)
 {

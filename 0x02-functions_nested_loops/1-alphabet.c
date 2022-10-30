@@ -5,7 +5,7 @@ Write a function that prints the alphabet, in lowercase, followed by a new line.
     You can only use _putchar twice in your code
 */
 
-#include "./mainh/main.h"
+#include "main.h"
 
 void print_alphabet(void)
 {
