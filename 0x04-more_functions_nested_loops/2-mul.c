@@ -1,7 +1,4 @@
-/*
-Write a function that multiplies two integers.
-Prototype: int mul(int a, int b);
-*/
+#include "main.h"
 
 int mul(int a, int b)
 {
